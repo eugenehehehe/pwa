@@ -156,7 +156,7 @@ export default function Home() {
       </div>
 
       <div className="mt-8 rounded-2xl border border-dashed border-zinc-300 bg-zinc-50 p-6 text-sm text-zinc-500 dark:border-zinc-700 dark:bg-zinc-900/40 dark:text-zinc-400">
-        Aplikasi ini dapat diinstal ke perangkat Anda dan tetap dapat diakses
+        Aplikasi ini dapat diunduh ke perangkat Anda dan tetap dapat diakses
         walau koneksi internet terputus berkat Service Worker.
       </div>
 
